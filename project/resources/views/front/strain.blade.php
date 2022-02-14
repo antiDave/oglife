@@ -116,7 +116,7 @@
 
         </div>
     </section>
-    <!-- Blog Page Area Start -->
+    <!-- Blog Page Area -->
 
 
 
