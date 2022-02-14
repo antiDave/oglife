@@ -1,0 +1,5 @@
+---
+deployment:
+  tasks:
+    - export DEPLOYPATH=/home/fqj2phnu1wyo/public_html/oglife
+    - /bin/cp -R * $DEPLOYPATH
